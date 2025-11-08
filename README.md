@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer with expertise in Spring Boot</h3>
 
 <p align="center">
-  I'm passionate about building scalable backend systems, crafting clean APIs, integrating microservices, and optimizing performance. 
+  I'm passionate about building scalable backend systems, creating clean APIs, integrating microservices, and optimizing performance. 
   With a strong foundation in Java and Spring Boot, I’m always exploring how emerging technologies like AI and DevOps can make software smarter, faster, and more secure. I'm also currently exploring freelance or    full time opportunities to improve my skills.
 </p>
 
